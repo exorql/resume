@@ -1,14 +1,13 @@
-経歴書
+# 経歴書
 
-===
+## 個人情報
 
-# 個人情報
-
-氏名: 渡辺 晴仁
-生年月日: 1993/11/09
-
-Github: https://github.com/exorql
-Qitta: https://qiita.com/exorql
+| 項目 | 内容 |
+| --- | ---|
+| 氏名| 渡辺 晴仁 |
+| 生年月日 | 1993/11/09 |
+| GitHub | https://github.com/exorql |
+| Qiita | https://qiita.com/exorqli |
 
 ## 株式会社リブセンス 2017/04 ~
 ### やったこと
