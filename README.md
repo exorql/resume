@@ -5,7 +5,6 @@
 | 項目 | 内容 |
 | --- | ---|
 | 氏名| 渡辺 晴仁 |
-| 生年月日 | 1993/11/09 |
 | GitHub | https://github.com/exorql |
 | Qiita | https://qiita.com/exorql |
 
