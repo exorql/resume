@@ -8,7 +8,8 @@
 | GitHub | https://github.com/exorql |
 | Qiita | https://qiita.com/exorql |
 
-### 経験・知識概要
+
+## 経験・知識概要
 | 項目 | 内容 |
 | --- | ---|
 | 言語| Ruby, PHP, TypeScript |
@@ -16,7 +17,9 @@
 | DB | MySQL, Redis |
 | インフラ | AWS, Docker |
 
-## 株式会社リブセンス 2017/04 ~
+
+## 職歴
+### 株式会社リブセンス 2017/04 ~
 ### やったこと
 
 * 求人サービスのメディア側のSEO/UX領域の開発
@@ -38,6 +41,7 @@
 | フレームワーク | Ruby on Rails, React.js, jQuery, Symfony |
 | 全文検索エンジン | Apache Solr |
 | インフラ | CentOS |
+
 
 ### 副業
 
